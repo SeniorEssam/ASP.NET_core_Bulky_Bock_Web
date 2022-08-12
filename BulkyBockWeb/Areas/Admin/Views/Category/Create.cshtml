@@ -1,0 +1,28 @@
+﻿@model Category
+<form method="post" class="border p-3 mt-4">
+    <h2 class="row pb-2 text-primary"> Create Category</h2>
+    <hr/>
+    @*<div asp-validation-summary="All"></div>*@
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control"/>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="DisplayOrder"></label>
+        <input asp-for="DisplayOrder" class="form-control"/>
+        <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+    </div>
+    <div class="pt-3">
+        <button type="submit" class="btn btn-primary " style="width:fit-content">Create</button>
+        <a type="button" asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:fit-content">Back To Category</a>
+    </div>
+</form>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+
