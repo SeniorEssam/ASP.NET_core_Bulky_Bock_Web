@@ -1,3 +1,4 @@
+﻿using BulkyBock.DataAccess.Data;
 using BulkyBock.DataAccess.Repository.IRepository;
 
 namespace BulkyBock.DataAccess.Repository

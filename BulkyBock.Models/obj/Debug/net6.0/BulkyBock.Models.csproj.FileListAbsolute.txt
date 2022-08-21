@@ -291,3 +291,12 @@ D:\NetProject\BulkyBock\BulkyBock.Models\obj\Debug\net6.0\BulkyBock.Models.pdb
 D:\NetProject\BulkyBock\BulkyBock.Models\obj\Debug\net6.0\BulkyBock.Models.genruntimeconfig.cache
 D:\NetProject\BulkyBock\BulkyBock.Models\obj\Debug\net6.0\ref\BulkyBock.Models.dll
 D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\NetProject\BulkyBock\BulkyBock.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
